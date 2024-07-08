@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # st.title("Welcome to ElectraNotes")
-# st.header("my nam/e is Himanshu")
+# st.header("my name is Himanshu")
 # st.subheader
 # st.markdown
 # st.code
